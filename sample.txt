@@ -1,1 +1,1 @@
-Git テストadd 変更をインデックスに登録する追加テスト2GitTest2で追加＜GitTest0が追加した文字＞＜GitTest2が追加した文字＞subブランチマージ
+Git テストadd 変更をインデックスに登録する追加テスト2GitTest2で追加＜GitTest0が追加した文字＞＜GitTest2が追加した文字＞subブランチマージtest
