@@ -7,9 +7,5 @@ GitTest2で追加
 subブランチ
 マージ
 abcdefg
-<<<<<<< HEAD
 hijklmnop
 qrstuvwxyz
-=======
-hijklmnop222222
->>>>>>> 6b3599b0c0a639f423367c7911caa111abd92d19
