@@ -7,3 +7,4 @@ GitTest2で追加
 subブランチ
 マージ
 a b c d e f g
+2 4 6 8 101214
