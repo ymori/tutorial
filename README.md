@@ -29,8 +29,8 @@ http://github.com/
 ```swift
 // シンタックスハイライト機能もあります
 func abc() {
-    println("hello")
-	print("hello2")
+	println("hello1")
+	print("hello3")
 }
 ```
 
