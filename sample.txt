@@ -7,3 +7,4 @@ GitTest2で追加
 subブランチ
 マージ
 1234567
+abcdefg
