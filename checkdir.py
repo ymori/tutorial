@@ -6,4 +6,3 @@ p_temp = pathlib.Path('mygame')
 pprint.pprint(list(p_temp.glob('**/*.png')))
 
 print("Hello2")
-print("Hello4")
