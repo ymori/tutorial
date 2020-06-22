@@ -6,5 +6,5 @@ GitTest2で追加
 ＜GitTest2が追加した文字＞
 subブランチ
 マージ
-mac
-mac
+net
+net
